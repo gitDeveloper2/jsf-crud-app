@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.cf</groupId>
-  <artifactId>HotPrJSF</artifactId>
+  <artifactId>Product_CRUD_Application</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>HotPrJSF Maven Webapp</name>
+  <name>Product_CRUD_Application Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -40,7 +40,7 @@
   </dependencies>
 
   <build>
-    <finalName>HotPrJSF</finalName>
+    <finalName>Product_CRUD_Application</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
